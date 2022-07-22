@@ -8,7 +8,7 @@
 	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
 # Burp Suite Professional Installation steps for Linux
---> Execute Kali_Linux_Setup.sh file as root user
+--> Execute Linux_Setup.sh file as root user
 
 # Burp Suite Pro Activation Steps
 1. Modify License String like "license to cybercommunity03"
@@ -22,4 +22,4 @@
 
 --> Windows :-: You can start Burp Suite Professional from Start Menu.
 
---> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
+--> Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
